@@ -1,0 +1,6 @@
+connexion==2.5.1
+requests==2.22.0
+pykafka==2.8.0
+Flask_cors==3.0.8
+apscheduler==3.6.3
+sqlalchemy==1.3.12
