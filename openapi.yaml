@@ -1,0 +1,42 @@
+swagger: '2.0'
+info:
+  description: This is an API for a patient report reciever
+  version: 1.0.0
+  title: Hospital API
+
+paths:
+
+  /report/stats:
+    get:
+      summary: Gets hospital stats
+      operationId: app.get_hospital_stats
+      description: Retrieves hospital stats
+      produces:
+      - application/json
+      responses:
+        200:
+          description: search results matching criteria
+          schema:
+            items:
+              $ref: '#/definitions/HospitalStats'
+        400:
+          description: Stats do not exist
+
+definitions:
+
+  HospitalStats:
+    type: object
+    required:
+    - numXrays
+    - numSurgeries
+    - timestamp
+    properties:
+      numSurgeries:
+        type: integer
+      numXrays:
+        type: integer
+      timestamp:
+        type: string
+        format: date-time
+
+

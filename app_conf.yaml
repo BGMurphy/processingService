@@ -1,0 +1,12 @@
+version: 1
+datastore:
+  filename: data.json
+  user: <user>
+  password: <password>
+  hostname: <hostname>
+  port: <port>
+  db: <db>
+scheduler:
+  period_sec: 5
+eventstore:
+  url: http://localhost:8090
