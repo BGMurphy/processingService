@@ -8308,3 +8308,770 @@
 2020-02-26 18:11:34,344 - basicLogger - INFO - Request started
 2020-02-26 18:11:34,346 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-26T18:11:28'}]
 2020-02-26 18:11:34,346 - basicLogger - INFO - Request completed
+2020-02-27 09:13:48,174 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:13:52,300 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:13:52,301 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:13:52,301 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:13:48'}]}
+2020-02-27 09:13:52,303 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:13:53,173 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:13:57,222 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:13:57,222 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:13:57,223 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:13:53'}]}
+2020-02-27 09:13:57,224 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:13:58,175 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:02,240 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:02,240 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:02,241 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:13:58'}]}
+2020-02-27 09:14:02,242 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:03,174 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:07,223 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:07,223 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:07,223 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:03'}]}
+2020-02-27 09:14:07,225 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:08,174 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:12,233 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:12,233 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:12,234 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:08'}]}
+2020-02-27 09:14:12,235 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:13,173 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:17,239 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:17,241 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:17,243 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:13'}]}
+2020-02-27 09:14:17,253 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:18,174 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:22,231 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:22,231 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:22,231 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:18'}]}
+2020-02-27 09:14:22,233 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:23,175 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:27,253 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:27,254 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:27,254 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:23'}]}
+2020-02-27 09:14:27,256 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:28,196 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:31,700 - basicLogger - INFO - Request started
+2020-02-27 09:14:31,701 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:23'}]
+2020-02-27 09:14:31,701 - basicLogger - INFO - Request completed
+2020-02-27 09:14:32,251 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:32,252 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:32,252 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:28'}]}
+2020-02-27 09:14:32,254 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:33,184 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:33,728 - basicLogger - INFO - Request started
+2020-02-27 09:14:33,729 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:28'}]
+2020-02-27 09:14:33,729 - basicLogger - INFO - Request completed
+2020-02-27 09:14:36,053 - basicLogger - INFO - Request started
+2020-02-27 09:14:36,054 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:28'}]
+2020-02-27 09:14:36,054 - basicLogger - INFO - Request completed
+2020-02-27 09:14:37,231 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:37,231 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:37,231 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:33'}]}
+2020-02-27 09:14:37,232 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:38,078 - basicLogger - INFO - Request started
+2020-02-27 09:14:38,089 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:33'}]
+2020-02-27 09:14:38,089 - basicLogger - INFO - Request completed
+2020-02-27 09:14:38,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:40,421 - basicLogger - INFO - Request started
+2020-02-27 09:14:40,422 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:33'}]
+2020-02-27 09:14:40,422 - basicLogger - INFO - Request completed
+2020-02-27 09:14:42,222 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:42,223 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:42,223 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:38'}]}
+2020-02-27 09:14:42,225 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:42,444 - basicLogger - INFO - Request started
+2020-02-27 09:14:42,454 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:38'}]
+2020-02-27 09:14:42,455 - basicLogger - INFO - Request completed
+2020-02-27 09:14:43,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:44,778 - basicLogger - INFO - Request started
+2020-02-27 09:14:44,779 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:38'}]
+2020-02-27 09:14:44,779 - basicLogger - INFO - Request completed
+2020-02-27 09:14:46,802 - basicLogger - INFO - Request started
+2020-02-27 09:14:46,803 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:38'}]
+2020-02-27 09:14:46,803 - basicLogger - INFO - Request completed
+2020-02-27 09:14:47,236 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:47,237 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:47,237 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:43'}]}
+2020-02-27 09:14:47,239 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:48,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:49,133 - basicLogger - INFO - Request started
+2020-02-27 09:14:49,134 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:43'}]
+2020-02-27 09:14:49,134 - basicLogger - INFO - Request completed
+2020-02-27 09:14:51,159 - basicLogger - INFO - Request started
+2020-02-27 09:14:51,160 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:43'}]
+2020-02-27 09:14:51,160 - basicLogger - INFO - Request completed
+2020-02-27 09:14:52,235 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:52,235 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:52,236 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:48'}]}
+2020-02-27 09:14:52,238 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:53,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:53,480 - basicLogger - INFO - Request started
+2020-02-27 09:14:53,481 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:48'}]
+2020-02-27 09:14:53,481 - basicLogger - INFO - Request completed
+2020-02-27 09:14:55,496 - basicLogger - INFO - Request started
+2020-02-27 09:14:55,497 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:48'}]
+2020-02-27 09:14:55,497 - basicLogger - INFO - Request completed
+2020-02-27 09:14:57,235 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:14:57,236 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:14:57,236 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:53'}]}
+2020-02-27 09:14:57,238 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:14:57,816 - basicLogger - INFO - Request started
+2020-02-27 09:14:57,828 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:53'}]
+2020-02-27 09:14:57,829 - basicLogger - INFO - Request completed
+2020-02-27 09:14:58,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:14:59,846 - basicLogger - INFO - Request started
+2020-02-27 09:14:59,847 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:53'}]
+2020-02-27 09:14:59,847 - basicLogger - INFO - Request completed
+2020-02-27 09:15:02,167 - basicLogger - INFO - Request started
+2020-02-27 09:15:02,168 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:53'}]
+2020-02-27 09:15:02,168 - basicLogger - INFO - Request completed
+2020-02-27 09:15:02,220 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:15:02,220 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:15:02,220 - basicLogger - DEBUG - {'stats': [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:58'}]}
+2020-02-27 09:15:02,222 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:03,184 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:04,186 - basicLogger - INFO - Request started
+2020-02-27 09:15:04,187 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:58'}]
+2020-02-27 09:15:04,187 - basicLogger - INFO - Request completed
+2020-02-27 09:15:06,509 - basicLogger - INFO - Request started
+2020-02-27 09:15:06,510 - basicLogger - DEBUG - [{'numXrays': 817, 'numSurgeries': 759, 'timestamp': '2020-02-27T09:14:58'}]
+2020-02-27 09:15:06,510 - basicLogger - INFO - Request completed
+2020-02-27 09:15:07,235 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:15:07,235 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:15:07,235 - basicLogger - DEBUG - {'stats': [{'numXrays': 826, 'numSurgeries': 768, 'timestamp': '2020-02-27T09:15:03'}]}
+2020-02-27 09:15:07,237 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:08,178 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:08,528 - basicLogger - INFO - Request started
+2020-02-27 09:15:08,529 - basicLogger - DEBUG - [{'numXrays': 826, 'numSurgeries': 768, 'timestamp': '2020-02-27T09:15:03'}]
+2020-02-27 09:15:08,529 - basicLogger - INFO - Request completed
+2020-02-27 09:15:10,850 - basicLogger - INFO - Request started
+2020-02-27 09:15:10,851 - basicLogger - DEBUG - [{'numXrays': 826, 'numSurgeries': 768, 'timestamp': '2020-02-27T09:15:03'}]
+2020-02-27 09:15:10,851 - basicLogger - INFO - Request completed
+2020-02-27 09:15:12,232 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:15:12,232 - basicLogger - INFO - Events recieved - xRays: 16
+2020-02-27 09:15:12,233 - basicLogger - DEBUG - {'stats': [{'numXrays': 842, 'numSurgeries': 777, 'timestamp': '2020-02-27T09:15:08'}]}
+2020-02-27 09:15:12,234 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:12,868 - basicLogger - INFO - Request started
+2020-02-27 09:15:12,873 - basicLogger - DEBUG - [{'numXrays': 842, 'numSurgeries': 777, 'timestamp': '2020-02-27T09:15:08'}]
+2020-02-27 09:15:12,873 - basicLogger - INFO - Request completed
+2020-02-27 09:15:13,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:15,197 - basicLogger - INFO - Request started
+2020-02-27 09:15:15,198 - basicLogger - DEBUG - [{'numXrays': 842, 'numSurgeries': 777, 'timestamp': '2020-02-27T09:15:08'}]
+2020-02-27 09:15:15,199 - basicLogger - INFO - Request completed
+2020-02-27 09:15:17,220 - basicLogger - INFO - Request started
+2020-02-27 09:15:17,220 - basicLogger - DEBUG - [{'numXrays': 842, 'numSurgeries': 777, 'timestamp': '2020-02-27T09:15:08'}]
+2020-02-27 09:15:17,221 - basicLogger - INFO - Request completed
+2020-02-27 09:15:17,265 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:15:17,266 - basicLogger - INFO - Events recieved - xRays: 11
+2020-02-27 09:15:17,266 - basicLogger - DEBUG - {'stats': [{'numXrays': 853, 'numSurgeries': 786, 'timestamp': '2020-02-27T09:15:13'}]}
+2020-02-27 09:15:17,268 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:18,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:19,540 - basicLogger - INFO - Request started
+2020-02-27 09:15:19,541 - basicLogger - DEBUG - [{'numXrays': 853, 'numSurgeries': 786, 'timestamp': '2020-02-27T09:15:13'}]
+2020-02-27 09:15:19,541 - basicLogger - INFO - Request completed
+2020-02-27 09:15:21,558 - basicLogger - INFO - Request started
+2020-02-27 09:15:21,559 - basicLogger - DEBUG - [{'numXrays': 853, 'numSurgeries': 786, 'timestamp': '2020-02-27T09:15:13'}]
+2020-02-27 09:15:21,559 - basicLogger - INFO - Request completed
+2020-02-27 09:15:22,233 - basicLogger - INFO - Events recieved - surgeries: 13
+2020-02-27 09:15:22,233 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:15:22,234 - basicLogger - DEBUG - {'stats': [{'numXrays': 862, 'numSurgeries': 799, 'timestamp': '2020-02-27T09:15:18'}]}
+2020-02-27 09:15:22,236 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:23,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:23,878 - basicLogger - INFO - Request started
+2020-02-27 09:15:23,879 - basicLogger - DEBUG - [{'numXrays': 862, 'numSurgeries': 799, 'timestamp': '2020-02-27T09:15:18'}]
+2020-02-27 09:15:23,879 - basicLogger - INFO - Request completed
+2020-02-27 09:15:25,898 - basicLogger - INFO - Request started
+2020-02-27 09:15:25,899 - basicLogger - DEBUG - [{'numXrays': 862, 'numSurgeries': 799, 'timestamp': '2020-02-27T09:15:18'}]
+2020-02-27 09:15:25,899 - basicLogger - INFO - Request completed
+2020-02-27 09:15:27,236 - basicLogger - INFO - Events recieved - surgeries: 14
+2020-02-27 09:15:27,236 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:15:27,236 - basicLogger - DEBUG - {'stats': [{'numXrays': 871, 'numSurgeries': 813, 'timestamp': '2020-02-27T09:15:23'}]}
+2020-02-27 09:15:27,238 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:28,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:28,217 - basicLogger - INFO - Request started
+2020-02-27 09:15:28,218 - basicLogger - DEBUG - [{'numXrays': 871, 'numSurgeries': 813, 'timestamp': '2020-02-27T09:15:23'}]
+2020-02-27 09:15:28,218 - basicLogger - INFO - Request completed
+2020-02-27 09:15:30,236 - basicLogger - INFO - Request started
+2020-02-27 09:15:30,237 - basicLogger - DEBUG - [{'numXrays': 871, 'numSurgeries': 813, 'timestamp': '2020-02-27T09:15:23'}]
+2020-02-27 09:15:30,237 - basicLogger - INFO - Request completed
+2020-02-27 09:15:32,246 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:15:32,246 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:15:32,247 - basicLogger - DEBUG - {'stats': [{'numXrays': 880, 'numSurgeries': 822, 'timestamp': '2020-02-27T09:15:28'}]}
+2020-02-27 09:15:32,249 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:32,557 - basicLogger - INFO - Request started
+2020-02-27 09:15:32,568 - basicLogger - DEBUG - [{'numXrays': 880, 'numSurgeries': 822, 'timestamp': '2020-02-27T09:15:28'}]
+2020-02-27 09:15:32,568 - basicLogger - INFO - Request completed
+2020-02-27 09:15:33,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:34,587 - basicLogger - INFO - Request started
+2020-02-27 09:15:34,588 - basicLogger - DEBUG - [{'numXrays': 880, 'numSurgeries': 822, 'timestamp': '2020-02-27T09:15:28'}]
+2020-02-27 09:15:34,588 - basicLogger - INFO - Request completed
+2020-02-27 09:15:36,909 - basicLogger - INFO - Request started
+2020-02-27 09:15:36,910 - basicLogger - DEBUG - [{'numXrays': 880, 'numSurgeries': 822, 'timestamp': '2020-02-27T09:15:28'}]
+2020-02-27 09:15:36,910 - basicLogger - INFO - Request completed
+2020-02-27 09:15:37,225 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:15:37,226 - basicLogger - INFO - Events recieved - xRays: 18
+2020-02-27 09:15:37,226 - basicLogger - DEBUG - {'stats': [{'numXrays': 898, 'numSurgeries': 831, 'timestamp': '2020-02-27T09:15:33'}]}
+2020-02-27 09:15:37,228 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:38,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:38,929 - basicLogger - INFO - Request started
+2020-02-27 09:15:38,930 - basicLogger - DEBUG - [{'numXrays': 898, 'numSurgeries': 831, 'timestamp': '2020-02-27T09:15:33'}]
+2020-02-27 09:15:38,931 - basicLogger - INFO - Request completed
+2020-02-27 09:15:41,253 - basicLogger - INFO - Request started
+2020-02-27 09:15:41,254 - basicLogger - DEBUG - [{'numXrays': 898, 'numSurgeries': 831, 'timestamp': '2020-02-27T09:15:33'}]
+2020-02-27 09:15:41,254 - basicLogger - INFO - Request completed
+2020-02-27 09:15:42,231 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:15:42,231 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:15:42,232 - basicLogger - DEBUG - {'stats': [{'numXrays': 907, 'numSurgeries': 840, 'timestamp': '2020-02-27T09:15:38'}]}
+2020-02-27 09:15:42,234 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:43,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:43,272 - basicLogger - INFO - Request started
+2020-02-27 09:15:43,272 - basicLogger - DEBUG - [{'numXrays': 907, 'numSurgeries': 840, 'timestamp': '2020-02-27T09:15:38'}]
+2020-02-27 09:15:43,273 - basicLogger - INFO - Request completed
+2020-02-27 09:15:45,596 - basicLogger - INFO - Request started
+2020-02-27 09:15:45,597 - basicLogger - DEBUG - [{'numXrays': 907, 'numSurgeries': 840, 'timestamp': '2020-02-27T09:15:38'}]
+2020-02-27 09:15:45,597 - basicLogger - INFO - Request completed
+2020-02-27 09:15:47,233 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:15:47,234 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:15:47,234 - basicLogger - DEBUG - {'stats': [{'numXrays': 907, 'numSurgeries': 849, 'timestamp': '2020-02-27T09:15:43'}]}
+2020-02-27 09:15:47,236 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:47,614 - basicLogger - INFO - Request started
+2020-02-27 09:15:47,624 - basicLogger - DEBUG - [{'numXrays': 907, 'numSurgeries': 849, 'timestamp': '2020-02-27T09:15:43'}]
+2020-02-27 09:15:47,625 - basicLogger - INFO - Request completed
+2020-02-27 09:15:48,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:49,945 - basicLogger - INFO - Request started
+2020-02-27 09:15:49,946 - basicLogger - DEBUG - [{'numXrays': 907, 'numSurgeries': 849, 'timestamp': '2020-02-27T09:15:43'}]
+2020-02-27 09:15:49,946 - basicLogger - INFO - Request completed
+2020-02-27 09:15:51,961 - basicLogger - INFO - Request started
+2020-02-27 09:15:51,962 - basicLogger - DEBUG - [{'numXrays': 907, 'numSurgeries': 849, 'timestamp': '2020-02-27T09:15:43'}]
+2020-02-27 09:15:51,963 - basicLogger - INFO - Request completed
+2020-02-27 09:15:52,221 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:15:52,222 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:15:52,222 - basicLogger - DEBUG - {'stats': [{'numXrays': 908, 'numSurgeries': 849, 'timestamp': '2020-02-27T09:15:48'}]}
+2020-02-27 09:15:52,224 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:53,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:54,284 - basicLogger - INFO - Request started
+2020-02-27 09:15:54,285 - basicLogger - DEBUG - [{'numXrays': 908, 'numSurgeries': 849, 'timestamp': '2020-02-27T09:15:48'}]
+2020-02-27 09:15:54,285 - basicLogger - INFO - Request completed
+2020-02-27 09:15:56,302 - basicLogger - INFO - Request started
+2020-02-27 09:15:56,303 - basicLogger - DEBUG - [{'numXrays': 908, 'numSurgeries': 849, 'timestamp': '2020-02-27T09:15:48'}]
+2020-02-27 09:15:56,304 - basicLogger - INFO - Request completed
+2020-02-27 09:15:57,231 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:15:57,231 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:15:57,232 - basicLogger - DEBUG - {'stats': [{'numXrays': 908, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:15:53'}]}
+2020-02-27 09:15:57,233 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:15:58,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:15:58,624 - basicLogger - INFO - Request started
+2020-02-27 09:15:58,625 - basicLogger - DEBUG - [{'numXrays': 908, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:15:53'}]
+2020-02-27 09:15:58,625 - basicLogger - INFO - Request completed
+2020-02-27 09:16:00,642 - basicLogger - INFO - Request started
+2020-02-27 09:16:00,644 - basicLogger - DEBUG - [{'numXrays': 908, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:15:53'}]
+2020-02-27 09:16:00,644 - basicLogger - INFO - Request completed
+2020-02-27 09:16:02,231 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:02,232 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:16:02,232 - basicLogger - DEBUG - {'stats': [{'numXrays': 909, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:15:58'}]}
+2020-02-27 09:16:02,234 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:02,964 - basicLogger - INFO - Request started
+2020-02-27 09:16:02,967 - basicLogger - DEBUG - [{'numXrays': 909, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:15:58'}]
+2020-02-27 09:16:02,967 - basicLogger - INFO - Request completed
+2020-02-27 09:16:03,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:04,990 - basicLogger - INFO - Request started
+2020-02-27 09:16:04,990 - basicLogger - DEBUG - [{'numXrays': 909, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:15:58'}]
+2020-02-27 09:16:04,991 - basicLogger - INFO - Request completed
+2020-02-27 09:16:07,221 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:07,222 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:16:07,222 - basicLogger - DEBUG - {'stats': [{'numXrays': 909, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:16:03'}]}
+2020-02-27 09:16:07,224 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:07,311 - basicLogger - INFO - Request started
+2020-02-27 09:16:07,324 - basicLogger - DEBUG - [{'numXrays': 909, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:16:03'}]
+2020-02-27 09:16:07,325 - basicLogger - INFO - Request completed
+2020-02-27 09:16:08,178 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:09,348 - basicLogger - INFO - Request started
+2020-02-27 09:16:09,349 - basicLogger - DEBUG - [{'numXrays': 909, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:16:03'}]
+2020-02-27 09:16:09,350 - basicLogger - INFO - Request completed
+2020-02-27 09:16:11,673 - basicLogger - INFO - Request started
+2020-02-27 09:16:11,674 - basicLogger - DEBUG - [{'numXrays': 909, 'numSurgeries': 850, 'timestamp': '2020-02-27T09:16:03'}]
+2020-02-27 09:16:11,675 - basicLogger - INFO - Request completed
+2020-02-27 09:16:12,219 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:16:12,219 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:16:12,219 - basicLogger - DEBUG - {'stats': [{'numXrays': 909, 'numSurgeries': 851, 'timestamp': '2020-02-27T09:16:08'}]}
+2020-02-27 09:16:12,221 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:13,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:13,694 - basicLogger - INFO - Request started
+2020-02-27 09:16:13,694 - basicLogger - DEBUG - [{'numXrays': 909, 'numSurgeries': 851, 'timestamp': '2020-02-27T09:16:08'}]
+2020-02-27 09:16:13,695 - basicLogger - INFO - Request completed
+2020-02-27 09:16:16,013 - basicLogger - INFO - Request started
+2020-02-27 09:16:16,014 - basicLogger - DEBUG - [{'numXrays': 909, 'numSurgeries': 851, 'timestamp': '2020-02-27T09:16:08'}]
+2020-02-27 09:16:16,014 - basicLogger - INFO - Request completed
+2020-02-27 09:16:17,233 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:17,233 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:16:17,233 - basicLogger - DEBUG - {'stats': [{'numXrays': 910, 'numSurgeries': 851, 'timestamp': '2020-02-27T09:16:13'}]}
+2020-02-27 09:16:17,235 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:18,031 - basicLogger - INFO - Request started
+2020-02-27 09:16:18,040 - basicLogger - DEBUG - [{'numXrays': 910, 'numSurgeries': 851, 'timestamp': '2020-02-27T09:16:13'}]
+2020-02-27 09:16:18,041 - basicLogger - INFO - Request completed
+2020-02-27 09:16:18,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:20,360 - basicLogger - INFO - Request started
+2020-02-27 09:16:20,361 - basicLogger - DEBUG - [{'numXrays': 910, 'numSurgeries': 851, 'timestamp': '2020-02-27T09:16:13'}]
+2020-02-27 09:16:20,361 - basicLogger - INFO - Request completed
+2020-02-27 09:16:22,219 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:16:22,219 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:16:22,220 - basicLogger - DEBUG - {'stats': [{'numXrays': 910, 'numSurgeries': 852, 'timestamp': '2020-02-27T09:16:18'}]}
+2020-02-27 09:16:22,221 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:22,378 - basicLogger - INFO - Request started
+2020-02-27 09:16:22,389 - basicLogger - DEBUG - [{'numXrays': 910, 'numSurgeries': 852, 'timestamp': '2020-02-27T09:16:18'}]
+2020-02-27 09:16:22,389 - basicLogger - INFO - Request completed
+2020-02-27 09:16:23,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:24,705 - basicLogger - INFO - Request started
+2020-02-27 09:16:24,706 - basicLogger - DEBUG - [{'numXrays': 910, 'numSurgeries': 852, 'timestamp': '2020-02-27T09:16:18'}]
+2020-02-27 09:16:24,706 - basicLogger - INFO - Request completed
+2020-02-27 09:16:26,722 - basicLogger - INFO - Request started
+2020-02-27 09:16:26,723 - basicLogger - DEBUG - [{'numXrays': 910, 'numSurgeries': 852, 'timestamp': '2020-02-27T09:16:18'}]
+2020-02-27 09:16:26,724 - basicLogger - INFO - Request completed
+2020-02-27 09:16:27,218 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:27,218 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:16:27,218 - basicLogger - DEBUG - {'stats': [{'numXrays': 911, 'numSurgeries': 852, 'timestamp': '2020-02-27T09:16:23'}]}
+2020-02-27 09:16:27,220 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:28,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:29,041 - basicLogger - INFO - Request started
+2020-02-27 09:16:29,042 - basicLogger - DEBUG - [{'numXrays': 911, 'numSurgeries': 852, 'timestamp': '2020-02-27T09:16:23'}]
+2020-02-27 09:16:29,042 - basicLogger - INFO - Request completed
+2020-02-27 09:16:31,059 - basicLogger - INFO - Request started
+2020-02-27 09:16:31,060 - basicLogger - DEBUG - [{'numXrays': 911, 'numSurgeries': 852, 'timestamp': '2020-02-27T09:16:23'}]
+2020-02-27 09:16:31,060 - basicLogger - INFO - Request completed
+2020-02-27 09:16:32,228 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:16:32,229 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:16:32,229 - basicLogger - DEBUG - {'stats': [{'numXrays': 911, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:28'}]}
+2020-02-27 09:16:32,231 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:33,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:33,388 - basicLogger - INFO - Request started
+2020-02-27 09:16:33,388 - basicLogger - DEBUG - [{'numXrays': 911, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:28'}]
+2020-02-27 09:16:33,388 - basicLogger - INFO - Request completed
+2020-02-27 09:16:35,411 - basicLogger - INFO - Request started
+2020-02-27 09:16:35,412 - basicLogger - DEBUG - [{'numXrays': 911, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:28'}]
+2020-02-27 09:16:35,412 - basicLogger - INFO - Request completed
+2020-02-27 09:16:37,228 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:37,228 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:16:37,228 - basicLogger - DEBUG - {'stats': [{'numXrays': 911, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:33'}]}
+2020-02-27 09:16:37,230 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:37,730 - basicLogger - INFO - Request started
+2020-02-27 09:16:37,740 - basicLogger - DEBUG - [{'numXrays': 911, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:33'}]
+2020-02-27 09:16:37,741 - basicLogger - INFO - Request completed
+2020-02-27 09:16:38,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:39,760 - basicLogger - INFO - Request started
+2020-02-27 09:16:39,761 - basicLogger - DEBUG - [{'numXrays': 911, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:33'}]
+2020-02-27 09:16:39,761 - basicLogger - INFO - Request completed
+2020-02-27 09:16:42,080 - basicLogger - INFO - Request started
+2020-02-27 09:16:42,081 - basicLogger - DEBUG - [{'numXrays': 911, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:33'}]
+2020-02-27 09:16:42,081 - basicLogger - INFO - Request completed
+2020-02-27 09:16:42,218 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:42,219 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:16:42,219 - basicLogger - DEBUG - {'stats': [{'numXrays': 912, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:38'}]}
+2020-02-27 09:16:42,221 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:43,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:44,097 - basicLogger - INFO - Request started
+2020-02-27 09:16:44,098 - basicLogger - DEBUG - [{'numXrays': 912, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:38'}]
+2020-02-27 09:16:44,098 - basicLogger - INFO - Request completed
+2020-02-27 09:16:46,417 - basicLogger - INFO - Request started
+2020-02-27 09:16:46,418 - basicLogger - DEBUG - [{'numXrays': 912, 'numSurgeries': 853, 'timestamp': '2020-02-27T09:16:38'}]
+2020-02-27 09:16:46,418 - basicLogger - INFO - Request completed
+2020-02-27 09:16:47,231 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:16:47,231 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:16:47,232 - basicLogger - DEBUG - {'stats': [{'numXrays': 912, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:43'}]}
+2020-02-27 09:16:47,232 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:48,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:48,434 - basicLogger - INFO - Request started
+2020-02-27 09:16:48,435 - basicLogger - DEBUG - [{'numXrays': 912, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:43'}]
+2020-02-27 09:16:48,436 - basicLogger - INFO - Request completed
+2020-02-27 09:16:50,756 - basicLogger - INFO - Request started
+2020-02-27 09:16:50,756 - basicLogger - DEBUG - [{'numXrays': 912, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:43'}]
+2020-02-27 09:16:50,757 - basicLogger - INFO - Request completed
+2020-02-27 09:16:52,228 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:52,228 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:16:52,228 - basicLogger - DEBUG - {'stats': [{'numXrays': 913, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:48'}]}
+2020-02-27 09:16:52,230 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:52,774 - basicLogger - INFO - Request started
+2020-02-27 09:16:52,784 - basicLogger - DEBUG - [{'numXrays': 913, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:48'}]
+2020-02-27 09:16:52,784 - basicLogger - INFO - Request completed
+2020-02-27 09:16:53,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:55,104 - basicLogger - INFO - Request started
+2020-02-27 09:16:55,105 - basicLogger - DEBUG - [{'numXrays': 913, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:48'}]
+2020-02-27 09:16:55,105 - basicLogger - INFO - Request completed
+2020-02-27 09:16:57,123 - basicLogger - INFO - Request started
+2020-02-27 09:16:57,124 - basicLogger - DEBUG - [{'numXrays': 913, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:48'}]
+2020-02-27 09:16:57,124 - basicLogger - INFO - Request completed
+2020-02-27 09:16:57,225 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:16:57,226 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:16:57,226 - basicLogger - DEBUG - {'stats': [{'numXrays': 913, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:53'}]}
+2020-02-27 09:16:57,229 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:16:58,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:16:59,444 - basicLogger - INFO - Request started
+2020-02-27 09:16:59,445 - basicLogger - DEBUG - [{'numXrays': 913, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:53'}]
+2020-02-27 09:16:59,445 - basicLogger - INFO - Request completed
+2020-02-27 09:17:01,466 - basicLogger - INFO - Request started
+2020-02-27 09:17:01,467 - basicLogger - DEBUG - [{'numXrays': 913, 'numSurgeries': 854, 'timestamp': '2020-02-27T09:16:53'}]
+2020-02-27 09:17:01,467 - basicLogger - INFO - Request completed
+2020-02-27 09:17:02,226 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:17:02,227 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:02,227 - basicLogger - DEBUG - {'stats': [{'numXrays': 913, 'numSurgeries': 855, 'timestamp': '2020-02-27T09:16:58'}]}
+2020-02-27 09:17:02,229 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:03,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:03,793 - basicLogger - INFO - Request started
+2020-02-27 09:17:03,794 - basicLogger - DEBUG - [{'numXrays': 913, 'numSurgeries': 855, 'timestamp': '2020-02-27T09:16:58'}]
+2020-02-27 09:17:03,794 - basicLogger - INFO - Request completed
+2020-02-27 09:17:05,814 - basicLogger - INFO - Request started
+2020-02-27 09:17:05,815 - basicLogger - DEBUG - [{'numXrays': 913, 'numSurgeries': 855, 'timestamp': '2020-02-27T09:16:58'}]
+2020-02-27 09:17:05,815 - basicLogger - INFO - Request completed
+2020-02-27 09:17:07,229 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:17:07,230 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:17:07,230 - basicLogger - DEBUG - {'stats': [{'numXrays': 914, 'numSurgeries': 855, 'timestamp': '2020-02-27T09:17:03'}]}
+2020-02-27 09:17:07,231 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:08,137 - basicLogger - INFO - Request started
+2020-02-27 09:17:08,152 - basicLogger - DEBUG - [{'numXrays': 914, 'numSurgeries': 855, 'timestamp': '2020-02-27T09:17:03'}]
+2020-02-27 09:17:08,152 - basicLogger - INFO - Request completed
+2020-02-27 09:17:08,178 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:10,171 - basicLogger - INFO - Request started
+2020-02-27 09:17:10,172 - basicLogger - DEBUG - [{'numXrays': 914, 'numSurgeries': 855, 'timestamp': '2020-02-27T09:17:03'}]
+2020-02-27 09:17:10,172 - basicLogger - INFO - Request completed
+2020-02-27 09:17:12,220 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:17:12,220 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:12,221 - basicLogger - DEBUG - {'stats': [{'numXrays': 914, 'numSurgeries': 856, 'timestamp': '2020-02-27T09:17:08'}]}
+2020-02-27 09:17:12,222 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:12,490 - basicLogger - INFO - Request started
+2020-02-27 09:17:12,501 - basicLogger - DEBUG - [{'numXrays': 914, 'numSurgeries': 856, 'timestamp': '2020-02-27T09:17:08'}]
+2020-02-27 09:17:12,501 - basicLogger - INFO - Request completed
+2020-02-27 09:17:13,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:14,516 - basicLogger - INFO - Request started
+2020-02-27 09:17:14,517 - basicLogger - DEBUG - [{'numXrays': 914, 'numSurgeries': 856, 'timestamp': '2020-02-27T09:17:08'}]
+2020-02-27 09:17:14,517 - basicLogger - INFO - Request completed
+2020-02-27 09:17:16,836 - basicLogger - INFO - Request started
+2020-02-27 09:17:16,837 - basicLogger - DEBUG - [{'numXrays': 914, 'numSurgeries': 856, 'timestamp': '2020-02-27T09:17:08'}]
+2020-02-27 09:17:16,837 - basicLogger - INFO - Request completed
+2020-02-27 09:17:17,221 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:17:17,222 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:17:17,222 - basicLogger - DEBUG - {'stats': [{'numXrays': 915, 'numSurgeries': 856, 'timestamp': '2020-02-27T09:17:13'}]}
+2020-02-27 09:17:17,224 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:18,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:18,856 - basicLogger - INFO - Request started
+2020-02-27 09:17:18,857 - basicLogger - DEBUG - [{'numXrays': 915, 'numSurgeries': 856, 'timestamp': '2020-02-27T09:17:13'}]
+2020-02-27 09:17:18,858 - basicLogger - INFO - Request completed
+2020-02-27 09:17:21,178 - basicLogger - INFO - Request started
+2020-02-27 09:17:21,179 - basicLogger - DEBUG - [{'numXrays': 915, 'numSurgeries': 856, 'timestamp': '2020-02-27T09:17:13'}]
+2020-02-27 09:17:21,179 - basicLogger - INFO - Request completed
+2020-02-27 09:17:22,226 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:17:22,226 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:22,226 - basicLogger - DEBUG - {'stats': [{'numXrays': 915, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:18'}]}
+2020-02-27 09:17:22,228 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:23,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:23,198 - basicLogger - INFO - Request started
+2020-02-27 09:17:23,201 - basicLogger - DEBUG - [{'numXrays': 915, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:18'}]
+2020-02-27 09:17:23,201 - basicLogger - INFO - Request completed
+2020-02-27 09:17:25,520 - basicLogger - INFO - Request started
+2020-02-27 09:17:25,521 - basicLogger - DEBUG - [{'numXrays': 915, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:18'}]
+2020-02-27 09:17:25,522 - basicLogger - INFO - Request completed
+2020-02-27 09:17:27,246 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:17:27,246 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:17:27,246 - basicLogger - DEBUG - {'stats': [{'numXrays': 916, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:23'}]}
+2020-02-27 09:17:27,248 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:27,538 - basicLogger - INFO - Request started
+2020-02-27 09:17:27,549 - basicLogger - DEBUG - [{'numXrays': 916, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:23'}]
+2020-02-27 09:17:27,550 - basicLogger - INFO - Request completed
+2020-02-27 09:17:28,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:29,867 - basicLogger - INFO - Request started
+2020-02-27 09:17:29,868 - basicLogger - DEBUG - [{'numXrays': 916, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:23'}]
+2020-02-27 09:17:29,868 - basicLogger - INFO - Request completed
+2020-02-27 09:17:31,883 - basicLogger - INFO - Request started
+2020-02-27 09:17:31,884 - basicLogger - DEBUG - [{'numXrays': 916, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:23'}]
+2020-02-27 09:17:31,885 - basicLogger - INFO - Request completed
+2020-02-27 09:17:32,221 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:17:32,222 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:32,222 - basicLogger - DEBUG - {'stats': [{'numXrays': 916, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:28'}]}
+2020-02-27 09:17:32,224 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:33,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:34,201 - basicLogger - INFO - Request started
+2020-02-27 09:17:34,202 - basicLogger - DEBUG - [{'numXrays': 916, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:28'}]
+2020-02-27 09:17:34,202 - basicLogger - INFO - Request completed
+2020-02-27 09:17:36,218 - basicLogger - INFO - Request started
+2020-02-27 09:17:36,219 - basicLogger - DEBUG - [{'numXrays': 916, 'numSurgeries': 857, 'timestamp': '2020-02-27T09:17:28'}]
+2020-02-27 09:17:36,219 - basicLogger - INFO - Request completed
+2020-02-27 09:17:37,223 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:17:37,224 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:37,224 - basicLogger - DEBUG - {'stats': [{'numXrays': 916, 'numSurgeries': 858, 'timestamp': '2020-02-27T09:17:33'}]}
+2020-02-27 09:17:37,226 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:38,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:38,536 - basicLogger - INFO - Request started
+2020-02-27 09:17:38,536 - basicLogger - DEBUG - [{'numXrays': 916, 'numSurgeries': 858, 'timestamp': '2020-02-27T09:17:33'}]
+2020-02-27 09:17:38,537 - basicLogger - INFO - Request completed
+2020-02-27 09:17:40,552 - basicLogger - INFO - Request started
+2020-02-27 09:17:40,553 - basicLogger - DEBUG - [{'numXrays': 916, 'numSurgeries': 858, 'timestamp': '2020-02-27T09:17:33'}]
+2020-02-27 09:17:40,553 - basicLogger - INFO - Request completed
+2020-02-27 09:17:42,230 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:17:42,231 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:17:42,231 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 858, 'timestamp': '2020-02-27T09:17:38'}]}
+2020-02-27 09:17:42,233 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:42,875 - basicLogger - INFO - Request started
+2020-02-27 09:17:42,885 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 858, 'timestamp': '2020-02-27T09:17:38'}]
+2020-02-27 09:17:42,886 - basicLogger - INFO - Request completed
+2020-02-27 09:17:43,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:44,911 - basicLogger - INFO - Request started
+2020-02-27 09:17:44,912 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 858, 'timestamp': '2020-02-27T09:17:38'}]
+2020-02-27 09:17:44,913 - basicLogger - INFO - Request completed
+2020-02-27 09:17:47,218 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:17:47,218 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:47,218 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:43'}]}
+2020-02-27 09:17:47,220 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:47,230 - basicLogger - INFO - Request started
+2020-02-27 09:17:47,241 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:43'}]
+2020-02-27 09:17:47,241 - basicLogger - INFO - Request completed
+2020-02-27 09:17:48,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:49,257 - basicLogger - INFO - Request started
+2020-02-27 09:17:49,258 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:43'}]
+2020-02-27 09:17:49,258 - basicLogger - INFO - Request completed
+2020-02-27 09:17:51,575 - basicLogger - INFO - Request started
+2020-02-27 09:17:51,576 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:43'}]
+2020-02-27 09:17:51,576 - basicLogger - INFO - Request completed
+2020-02-27 09:17:52,216 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:17:52,216 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:52,217 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:48'}]}
+2020-02-27 09:17:52,218 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:53,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:17:53,593 - basicLogger - INFO - Request started
+2020-02-27 09:17:53,594 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:48'}]
+2020-02-27 09:17:53,595 - basicLogger - INFO - Request completed
+2020-02-27 09:17:55,917 - basicLogger - INFO - Request started
+2020-02-27 09:17:55,918 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:48'}]
+2020-02-27 09:17:55,918 - basicLogger - INFO - Request completed
+2020-02-27 09:17:57,237 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:17:57,238 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:17:57,239 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:53'}]}
+2020-02-27 09:17:57,241 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:17:57,934 - basicLogger - INFO - Request started
+2020-02-27 09:17:57,943 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:53'}]
+2020-02-27 09:17:57,944 - basicLogger - INFO - Request completed
+2020-02-27 09:17:58,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:00,263 - basicLogger - INFO - Request started
+2020-02-27 09:18:00,264 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:53'}]
+2020-02-27 09:18:00,264 - basicLogger - INFO - Request completed
+2020-02-27 09:18:02,221 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:18:02,221 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:18:02,222 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:58'}]}
+2020-02-27 09:18:02,224 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:02,282 - basicLogger - INFO - Request started
+2020-02-27 09:18:02,298 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:58'}]
+2020-02-27 09:18:02,298 - basicLogger - INFO - Request completed
+2020-02-27 09:18:03,184 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:04,620 - basicLogger - INFO - Request started
+2020-02-27 09:18:04,621 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:58'}]
+2020-02-27 09:18:04,621 - basicLogger - INFO - Request completed
+2020-02-27 09:18:06,661 - basicLogger - INFO - Request started
+2020-02-27 09:18:06,662 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:17:58'}]
+2020-02-27 09:18:06,663 - basicLogger - INFO - Request completed
+2020-02-27 09:18:07,241 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:18:07,241 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:18:07,241 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:03'}]}
+2020-02-27 09:18:07,243 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:08,178 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:08,997 - basicLogger - INFO - Request started
+2020-02-27 09:18:08,997 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:03'}]
+2020-02-27 09:18:08,997 - basicLogger - INFO - Request completed
+2020-02-27 09:18:11,019 - basicLogger - INFO - Request started
+2020-02-27 09:18:11,020 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:03'}]
+2020-02-27 09:18:11,021 - basicLogger - INFO - Request completed
+2020-02-27 09:18:12,235 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:18:12,235 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:18:12,235 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:08'}]}
+2020-02-27 09:18:12,237 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:13,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:13,346 - basicLogger - INFO - Request started
+2020-02-27 09:18:13,347 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:08'}]
+2020-02-27 09:18:13,348 - basicLogger - INFO - Request completed
+2020-02-27 09:18:15,364 - basicLogger - INFO - Request started
+2020-02-27 09:18:15,365 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:08'}]
+2020-02-27 09:18:15,365 - basicLogger - INFO - Request completed
+2020-02-27 09:18:17,227 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:18:17,228 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:18:17,228 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:13'}]}
+2020-02-27 09:18:17,230 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:17,685 - basicLogger - INFO - Request started
+2020-02-27 09:18:17,695 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:13'}]
+2020-02-27 09:18:17,696 - basicLogger - INFO - Request completed
+2020-02-27 09:18:18,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:19,711 - basicLogger - INFO - Request started
+2020-02-27 09:18:19,712 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:13'}]
+2020-02-27 09:18:19,712 - basicLogger - INFO - Request completed
+2020-02-27 09:18:22,033 - basicLogger - INFO - Request started
+2020-02-27 09:18:22,034 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:13'}]
+2020-02-27 09:18:22,034 - basicLogger - INFO - Request completed
+2020-02-27 09:18:22,224 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:18:22,225 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:18:22,225 - basicLogger - DEBUG - {'stats': [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:18'}]}
+2020-02-27 09:18:22,227 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:23,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:24,053 - basicLogger - INFO - Request started
+2020-02-27 09:18:24,054 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:18'}]
+2020-02-27 09:18:24,054 - basicLogger - INFO - Request completed
+2020-02-27 09:18:26,372 - basicLogger - INFO - Request started
+2020-02-27 09:18:26,373 - basicLogger - DEBUG - [{'numXrays': 917, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:18'}]
+2020-02-27 09:18:26,373 - basicLogger - INFO - Request completed
+2020-02-27 09:18:27,232 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:18:27,233 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:18:27,233 - basicLogger - DEBUG - {'stats': [{'numXrays': 926, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:23'}]}
+2020-02-27 09:18:27,235 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:28,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:28,389 - basicLogger - INFO - Request started
+2020-02-27 09:18:28,390 - basicLogger - DEBUG - [{'numXrays': 926, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:23'}]
+2020-02-27 09:18:28,390 - basicLogger - INFO - Request completed
+2020-02-27 09:18:30,716 - basicLogger - INFO - Request started
+2020-02-27 09:18:30,717 - basicLogger - DEBUG - [{'numXrays': 926, 'numSurgeries': 859, 'timestamp': '2020-02-27T09:18:23'}]
+2020-02-27 09:18:30,717 - basicLogger - INFO - Request completed
+2020-02-27 09:18:32,234 - basicLogger - INFO - Events recieved - surgeries: 17
+2020-02-27 09:18:32,234 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:18:32,235 - basicLogger - DEBUG - {'stats': [{'numXrays': 935, 'numSurgeries': 876, 'timestamp': '2020-02-27T09:18:28'}]}
+2020-02-27 09:18:32,237 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:32,733 - basicLogger - INFO - Request started
+2020-02-27 09:18:32,743 - basicLogger - DEBUG - [{'numXrays': 935, 'numSurgeries': 876, 'timestamp': '2020-02-27T09:18:28'}]
+2020-02-27 09:18:32,743 - basicLogger - INFO - Request completed
+2020-02-27 09:18:33,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:35,062 - basicLogger - INFO - Request started
+2020-02-27 09:18:35,063 - basicLogger - DEBUG - [{'numXrays': 935, 'numSurgeries': 876, 'timestamp': '2020-02-27T09:18:28'}]
+2020-02-27 09:18:35,063 - basicLogger - INFO - Request completed
+2020-02-27 09:18:37,080 - basicLogger - INFO - Request started
+2020-02-27 09:18:37,081 - basicLogger - DEBUG - [{'numXrays': 935, 'numSurgeries': 876, 'timestamp': '2020-02-27T09:18:28'}]
+2020-02-27 09:18:37,082 - basicLogger - INFO - Request completed
+2020-02-27 09:18:37,227 - basicLogger - INFO - Events recieved - surgeries: 10
+2020-02-27 09:18:37,228 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:18:37,228 - basicLogger - DEBUG - {'stats': [{'numXrays': 944, 'numSurgeries': 886, 'timestamp': '2020-02-27T09:18:33'}]}
+2020-02-27 09:18:37,230 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:38,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:39,404 - basicLogger - INFO - Request started
+2020-02-27 09:18:39,404 - basicLogger - DEBUG - [{'numXrays': 944, 'numSurgeries': 886, 'timestamp': '2020-02-27T09:18:33'}]
+2020-02-27 09:18:39,404 - basicLogger - INFO - Request completed
+2020-02-27 09:18:41,428 - basicLogger - INFO - Request started
+2020-02-27 09:18:41,429 - basicLogger - DEBUG - [{'numXrays': 944, 'numSurgeries': 886, 'timestamp': '2020-02-27T09:18:33'}]
+2020-02-27 09:18:41,429 - basicLogger - INFO - Request completed
+2020-02-27 09:18:42,241 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:18:42,242 - basicLogger - INFO - Events recieved - xRays: 14
+2020-02-27 09:18:42,242 - basicLogger - DEBUG - {'stats': [{'numXrays': 958, 'numSurgeries': 895, 'timestamp': '2020-02-27T09:18:38'}]}
+2020-02-27 09:18:42,244 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:43,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:43,748 - basicLogger - INFO - Request started
+2020-02-27 09:18:43,749 - basicLogger - DEBUG - [{'numXrays': 958, 'numSurgeries': 895, 'timestamp': '2020-02-27T09:18:38'}]
+2020-02-27 09:18:43,749 - basicLogger - INFO - Request completed
+2020-02-27 09:18:45,769 - basicLogger - INFO - Request started
+2020-02-27 09:18:45,770 - basicLogger - DEBUG - [{'numXrays': 958, 'numSurgeries': 895, 'timestamp': '2020-02-27T09:18:38'}]
+2020-02-27 09:18:45,770 - basicLogger - INFO - Request completed
+2020-02-27 09:18:47,239 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:18:47,240 - basicLogger - INFO - Events recieved - xRays: 13
+2020-02-27 09:18:47,240 - basicLogger - DEBUG - {'stats': [{'numXrays': 971, 'numSurgeries': 904, 'timestamp': '2020-02-27T09:18:43'}]}
+2020-02-27 09:18:47,242 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:48,089 - basicLogger - INFO - Request started
+2020-02-27 09:18:48,100 - basicLogger - DEBUG - [{'numXrays': 971, 'numSurgeries': 904, 'timestamp': '2020-02-27T09:18:43'}]
+2020-02-27 09:18:48,100 - basicLogger - INFO - Request completed
+2020-02-27 09:18:48,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:50,120 - basicLogger - INFO - Request started
+2020-02-27 09:18:50,121 - basicLogger - DEBUG - [{'numXrays': 971, 'numSurgeries': 904, 'timestamp': '2020-02-27T09:18:43'}]
+2020-02-27 09:18:50,122 - basicLogger - INFO - Request completed
+2020-02-27 09:18:52,248 - basicLogger - INFO - Events recieved - surgeries: 11
+2020-02-27 09:18:52,249 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:18:52,249 - basicLogger - DEBUG - {'stats': [{'numXrays': 980, 'numSurgeries': 915, 'timestamp': '2020-02-27T09:18:48'}]}
+2020-02-27 09:18:52,252 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:52,444 - basicLogger - INFO - Request started
+2020-02-27 09:18:52,464 - basicLogger - DEBUG - [{'numXrays': 980, 'numSurgeries': 915, 'timestamp': '2020-02-27T09:18:48'}]
+2020-02-27 09:18:52,465 - basicLogger - INFO - Request completed
+2020-02-27 09:18:53,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:55,380 - basicLogger - INFO - Request started
+2020-02-27 09:18:55,381 - basicLogger - DEBUG - [{'numXrays': 980, 'numSurgeries': 915, 'timestamp': '2020-02-27T09:18:48'}]
+2020-02-27 09:18:55,382 - basicLogger - INFO - Request completed
+2020-02-27 09:18:57,234 - basicLogger - INFO - Events recieved - surgeries: 16
+2020-02-27 09:18:57,235 - basicLogger - INFO - Events recieved - xRays: 10
+2020-02-27 09:18:57,235 - basicLogger - DEBUG - {'stats': [{'numXrays': 990, 'numSurgeries': 931, 'timestamp': '2020-02-27T09:18:53'}]}
+2020-02-27 09:18:57,237 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:18:58,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:18:58,681 - basicLogger - INFO - Request started
+2020-02-27 09:18:58,682 - basicLogger - DEBUG - [{'numXrays': 990, 'numSurgeries': 931, 'timestamp': '2020-02-27T09:18:53'}]
+2020-02-27 09:18:58,682 - basicLogger - INFO - Request completed
+2020-02-27 09:19:01,378 - basicLogger - INFO - Request started
+2020-02-27 09:19:01,379 - basicLogger - DEBUG - [{'numXrays': 990, 'numSurgeries': 931, 'timestamp': '2020-02-27T09:18:53'}]
+2020-02-27 09:19:01,379 - basicLogger - INFO - Request completed
+2020-02-27 09:19:02,235 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:19:02,235 - basicLogger - INFO - Events recieved - xRays: 9
+2020-02-27 09:19:02,235 - basicLogger - DEBUG - {'stats': [{'numXrays': 999, 'numSurgeries': 940, 'timestamp': '2020-02-27T09:18:58'}]}
+2020-02-27 09:19:02,237 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:03,183 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:04,681 - basicLogger - INFO - Request started
+2020-02-27 09:19:04,682 - basicLogger - DEBUG - [{'numXrays': 999, 'numSurgeries': 940, 'timestamp': '2020-02-27T09:18:58'}]
+2020-02-27 09:19:04,682 - basicLogger - INFO - Request completed
+2020-02-27 09:19:07,233 - basicLogger - INFO - Events recieved - surgeries: 9
+2020-02-27 09:19:07,233 - basicLogger - INFO - Events recieved - xRays: 10
+2020-02-27 09:19:07,234 - basicLogger - DEBUG - {'stats': [{'numXrays': 1009, 'numSurgeries': 949, 'timestamp': '2020-02-27T09:19:03'}]}
+2020-02-27 09:19:07,235 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:07,376 - basicLogger - INFO - Request started
+2020-02-27 09:19:07,386 - basicLogger - DEBUG - [{'numXrays': 1009, 'numSurgeries': 949, 'timestamp': '2020-02-27T09:19:03'}]
+2020-02-27 09:19:07,386 - basicLogger - INFO - Request completed
+2020-02-27 09:19:08,179 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:10,681 - basicLogger - INFO - Request started
+2020-02-27 09:19:10,682 - basicLogger - DEBUG - [{'numXrays': 1009, 'numSurgeries': 949, 'timestamp': '2020-02-27T09:19:03'}]
+2020-02-27 09:19:10,682 - basicLogger - INFO - Request completed
+2020-02-27 09:19:12,227 - basicLogger - INFO - Events recieved - surgeries: 2
+2020-02-27 09:19:12,227 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:19:12,228 - basicLogger - DEBUG - {'stats': [{'numXrays': 1009, 'numSurgeries': 951, 'timestamp': '2020-02-27T09:19:08'}]}
+2020-02-27 09:19:12,230 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:13,184 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:13,379 - basicLogger - INFO - Request started
+2020-02-27 09:19:13,380 - basicLogger - DEBUG - [{'numXrays': 1009, 'numSurgeries': 951, 'timestamp': '2020-02-27T09:19:08'}]
+2020-02-27 09:19:13,380 - basicLogger - INFO - Request completed
+2020-02-27 09:19:16,682 - basicLogger - INFO - Request started
+2020-02-27 09:19:16,683 - basicLogger - DEBUG - [{'numXrays': 1009, 'numSurgeries': 951, 'timestamp': '2020-02-27T09:19:08'}]
+2020-02-27 09:19:16,683 - basicLogger - INFO - Request completed
+2020-02-27 09:19:17,235 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:19:17,235 - basicLogger - INFO - Events recieved - xRays: 3
+2020-02-27 09:19:17,236 - basicLogger - DEBUG - {'stats': [{'numXrays': 1012, 'numSurgeries': 952, 'timestamp': '2020-02-27T09:19:13'}]}
+2020-02-27 09:19:17,237 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:18,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:19,378 - basicLogger - INFO - Request started
+2020-02-27 09:19:19,379 - basicLogger - DEBUG - [{'numXrays': 1012, 'numSurgeries': 952, 'timestamp': '2020-02-27T09:19:13'}]
+2020-02-27 09:19:19,380 - basicLogger - INFO - Request completed
+2020-02-27 09:19:22,243 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:19:22,243 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:19:22,244 - basicLogger - DEBUG - {'stats': [{'numXrays': 1012, 'numSurgeries': 953, 'timestamp': '2020-02-27T09:19:18'}]}
+2020-02-27 09:19:22,245 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:22,679 - basicLogger - INFO - Request started
+2020-02-27 09:19:22,690 - basicLogger - DEBUG - [{'numXrays': 1012, 'numSurgeries': 953, 'timestamp': '2020-02-27T09:19:18'}]
+2020-02-27 09:19:22,691 - basicLogger - INFO - Request completed
+2020-02-27 09:19:23,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:25,380 - basicLogger - INFO - Request started
+2020-02-27 09:19:25,381 - basicLogger - DEBUG - [{'numXrays': 1012, 'numSurgeries': 953, 'timestamp': '2020-02-27T09:19:18'}]
+2020-02-27 09:19:25,382 - basicLogger - INFO - Request completed
+2020-02-27 09:19:27,228 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:19:27,228 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:19:27,228 - basicLogger - DEBUG - {'stats': [{'numXrays': 1012, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:23'}]}
+2020-02-27 09:19:27,230 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:28,182 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:28,680 - basicLogger - INFO - Request started
+2020-02-27 09:19:28,680 - basicLogger - DEBUG - [{'numXrays': 1012, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:23'}]
+2020-02-27 09:19:28,681 - basicLogger - INFO - Request completed
+2020-02-27 09:19:31,378 - basicLogger - INFO - Request started
+2020-02-27 09:19:31,379 - basicLogger - DEBUG - [{'numXrays': 1012, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:23'}]
+2020-02-27 09:19:31,379 - basicLogger - INFO - Request completed
+2020-02-27 09:19:32,228 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:19:32,229 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:19:32,229 - basicLogger - DEBUG - {'stats': [{'numXrays': 1012, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:28'}]}
+2020-02-27 09:19:32,231 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:33,181 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:34,680 - basicLogger - INFO - Request started
+2020-02-27 09:19:34,681 - basicLogger - DEBUG - [{'numXrays': 1012, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:28'}]
+2020-02-27 09:19:34,681 - basicLogger - INFO - Request completed
+2020-02-27 09:19:37,249 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-02-27 09:19:37,249 - basicLogger - INFO - Events recieved - xRays: 1
+2020-02-27 09:19:37,250 - basicLogger - DEBUG - {'stats': [{'numXrays': 1013, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:33'}]}
+2020-02-27 09:19:37,252 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:37,388 - basicLogger - INFO - Request started
+2020-02-27 09:19:37,410 - basicLogger - DEBUG - [{'numXrays': 1013, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:33'}]
+2020-02-27 09:19:37,411 - basicLogger - INFO - Request completed
+2020-02-27 09:19:38,180 - basicLogger - INFO - Start Periodic Processing
+2020-02-27 09:19:40,684 - basicLogger - INFO - Request started
+2020-02-27 09:19:40,685 - basicLogger - DEBUG - [{'numXrays': 1013, 'numSurgeries': 954, 'timestamp': '2020-02-27T09:19:33'}]
+2020-02-27 09:19:40,685 - basicLogger - INFO - Request completed
+2020-02-27 09:19:42,232 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-02-27 09:19:42,232 - basicLogger - INFO - Events recieved - xRays: 0
+2020-02-27 09:19:42,233 - basicLogger - DEBUG - {'stats': [{'numXrays': 1013, 'numSurgeries': 955, 'timestamp': '2020-02-27T09:19:38'}]}
+2020-02-27 09:19:42,235 - basicLogger - DEBUG - Period processing has ended
+2020-02-27 09:19:43,183 - basicLogger - INFO - Start Periodic Processing
