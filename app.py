@@ -53,7 +53,6 @@ def populate_stats():
     """ Periodically update stats """
     logger = logging.getLogger('basicLogger')
     logger.info("Start Periodic Processing")
-
     # logger.info(parsed_json)
 
     now = datetime.datetime.now()

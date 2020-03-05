@@ -3,7 +3,7 @@ datastore:
   filename: "data.json"
   user: "root"
   password: "password"
-  hostname: "http://microservices-a00805865.eastus.cloudapp.azure.com"
+  hostname: "microservices-a00805865.eastus.cloudapp.azure.com"
   port: "3306"
   db: "events"
 scheduler:
