@@ -1,12 +1,12 @@
 version: 1
 datastore:
-  filename: data.json
-  user: <user>
-  password: <password>
-  hostname: <hostname>
-  port: <port>
-  db: <db>
+  filename: "data.json"
+  user: "root"
+  password: "password"
+  hostname: "microservices-a00805865.eastus.cloudapp.azure.com"
+  port: "3306"
+  db: "events"
 scheduler:
   period_sec: 5
 eventstore:
-  url: http://localhost:8090
+  url: "http://localhost:8090"

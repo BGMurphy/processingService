@@ -10859,3 +10859,581 @@
 2020-02-27 09:34:32,247 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-02-27T09:34:28'}]}
 2020-02-27 09:34:32,249 - basicLogger - DEBUG - Period processing has ended
 2020-02-27 09:34:33,185 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:43:34,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:43:40,086 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:43:40,086 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:43:40,086 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:43:34'}]}
+2020-03-05 09:43:40,088 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:43:44,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:43:48,726 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:43:48,727 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:43:48,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:43:44'}]}
+2020-03-05 09:43:48,729 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:43:49,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:43:53,724 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:43:53,725 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:43:53,725 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:43:49'}]}
+2020-03-05 09:43:53,727 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:43:54,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:43:58,772 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:43:58,772 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:43:58,773 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:43:54'}]}
+2020-03-05 09:43:58,774 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:43:59,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:03,736 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:03,737 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:03,737 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:43:59'}]}
+2020-03-05 09:44:03,742 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:04,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:08,736 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:08,737 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:08,737 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:04'}]}
+2020-03-05 09:44:08,739 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:09,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:13,720 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:13,720 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:13,721 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:09'}]}
+2020-03-05 09:44:13,723 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:14,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:18,736 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:18,737 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:18,737 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:14'}]}
+2020-03-05 09:44:18,739 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:19,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:23,726 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:23,727 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:23,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:19'}]}
+2020-03-05 09:44:23,729 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:24,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:28,742 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:28,743 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:28,744 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:24'}]}
+2020-03-05 09:44:28,747 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:29,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:33,712 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:33,712 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:33,712 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:29'}]}
+2020-03-05 09:44:33,714 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:34,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:38,723 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:38,723 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:38,723 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:34'}]}
+2020-03-05 09:44:38,725 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:39,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:43,725 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:43,725 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:43,725 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:39'}]}
+2020-03-05 09:44:43,727 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:44,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:49,060 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:49,060 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:49,061 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:44'}]}
+2020-03-05 09:44:49,062 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:49,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:53,719 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:53,719 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:53,719 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:49'}]}
+2020-03-05 09:44:53,721 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:54,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:44:58,726 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:44:58,727 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:44:58,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:54'}]}
+2020-03-05 09:44:58,729 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:44:59,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:03,741 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:03,741 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:03,742 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:44:59'}]}
+2020-03-05 09:45:03,749 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:04,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:09,043 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:09,043 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:09,044 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:04'}]}
+2020-03-05 09:45:09,045 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:09,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:13,724 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:13,725 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:13,725 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:09'}]}
+2020-03-05 09:45:13,726 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:14,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:19,025 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:19,026 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:19,026 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:14'}]}
+2020-03-05 09:45:19,028 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:19,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:23,726 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:23,726 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:23,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:19'}]}
+2020-03-05 09:45:23,728 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:24,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:28,734 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:28,734 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:28,734 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:24'}]}
+2020-03-05 09:45:28,736 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:29,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:33,743 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:33,743 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:33,744 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:29'}]}
+2020-03-05 09:45:33,746 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:34,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:38,727 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:38,728 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:38,728 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:34'}]}
+2020-03-05 09:45:38,730 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:39,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:43,762 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:43,763 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:43,763 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:39'}]}
+2020-03-05 09:45:43,765 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:44,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:48,721 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:48,722 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:48,722 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:44'}]}
+2020-03-05 09:45:48,724 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:49,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:53,721 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:53,721 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:53,722 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:49'}]}
+2020-03-05 09:45:53,724 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:54,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:45:58,717 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:45:58,717 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:45:58,718 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:54'}]}
+2020-03-05 09:45:58,719 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:45:59,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:03,730 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:03,731 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:03,731 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:45:59'}]}
+2020-03-05 09:46:03,733 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:04,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:08,747 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:08,748 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:08,748 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:04'}]}
+2020-03-05 09:46:08,750 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:09,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:13,722 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:13,723 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:13,723 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:09'}]}
+2020-03-05 09:46:13,725 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:14,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:18,730 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:18,730 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:18,731 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:14'}]}
+2020-03-05 09:46:18,732 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:19,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:23,722 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:23,723 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:23,723 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:19'}]}
+2020-03-05 09:46:23,725 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:24,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:28,727 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:28,728 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:28,728 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:24'}]}
+2020-03-05 09:46:28,730 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:29,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:33,731 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:33,731 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:33,732 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:29'}]}
+2020-03-05 09:46:33,733 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:34,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:38,719 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:38,720 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:38,720 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:34'}]}
+2020-03-05 09:46:38,722 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:39,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:43,727 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:43,727 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:43,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:39'}]}
+2020-03-05 09:46:43,729 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:44,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:48,724 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:48,724 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:48,725 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:44'}]}
+2020-03-05 09:46:48,727 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:49,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:53,733 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:53,733 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:53,734 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:49'}]}
+2020-03-05 09:46:53,735 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:54,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:46:58,742 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:46:58,743 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:46:58,743 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:54'}]}
+2020-03-05 09:46:58,745 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:46:59,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:03,722 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:03,722 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:03,722 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:46:59'}]}
+2020-03-05 09:47:03,723 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:04,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:08,724 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:08,724 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:08,724 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:04'}]}
+2020-03-05 09:47:08,725 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:09,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:13,729 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:13,730 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:13,730 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:09'}]}
+2020-03-05 09:47:13,732 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:14,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:18,722 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:18,722 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:18,723 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:14'}]}
+2020-03-05 09:47:18,724 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:19,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:23,727 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:23,727 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:23,728 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:19'}]}
+2020-03-05 09:47:23,728 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:24,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:29,042 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:29,043 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:29,043 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:24'}]}
+2020-03-05 09:47:29,045 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:29,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:33,726 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:33,727 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:33,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:29'}]}
+2020-03-05 09:47:33,729 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:34,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:38,726 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:38,727 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:38,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:34'}]}
+2020-03-05 09:47:38,729 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:39,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:43,724 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:43,725 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:43,725 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:39'}]}
+2020-03-05 09:47:43,727 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:44,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:48,732 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:48,733 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:48,733 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:44'}]}
+2020-03-05 09:47:48,735 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:49,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:53,719 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:53,719 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:53,719 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:49'}]}
+2020-03-05 09:47:53,721 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:54,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:47:58,726 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:47:58,726 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:47:58,727 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:54'}]}
+2020-03-05 09:47:58,728 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:47:59,356 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:03,725 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:48:03,725 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:48:03,726 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:47:59'}]}
+2020-03-05 09:48:03,727 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:48:04,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:08,739 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:48:08,739 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:48:08,739 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:48:04'}]}
+2020-03-05 09:48:08,741 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:48:09,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:13,723 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:48:13,723 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:48:13,724 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:48:09'}]}
+2020-03-05 09:48:13,725 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:48:14,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:19,042 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:48:19,043 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:48:19,043 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:48:14'}]}
+2020-03-05 09:48:19,045 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:48:19,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:23,738 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:48:23,739 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:48:23,739 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:48:19'}]}
+2020-03-05 09:48:23,742 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:48:24,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:28,742 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:48:28,743 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:48:28,743 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:48:24'}]}
+2020-03-05 09:48:28,746 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:48:29,358 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:33,752 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:48:33,752 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:48:33,753 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:48:29'}]}
+2020-03-05 09:48:33,756 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:48:34,357 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:46,436 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:51,435 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:48:56,435 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:53:12,026 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:53:38,529 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:53:42,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:53:46,380 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:53:46,380 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:53:46,380 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:53:42'}]}
+2020-03-05 09:53:46,382 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:53:47,026 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:53:51,396 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:53:51,396 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:53:51,396 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:53:47'}]}
+2020-03-05 09:53:51,397 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:53:52,026 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:53:56,445 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:53:56,445 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:53:56,446 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:53:52'}]}
+2020-03-05 09:53:56,447 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:53:57,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:01,403 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:01,404 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:01,404 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:53:57'}]}
+2020-03-05 09:54:01,406 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:02,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:06,391 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:06,392 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:06,392 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:02'}]}
+2020-03-05 09:54:06,394 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:07,026 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:11,391 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:11,391 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:11,391 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:07'}]}
+2020-03-05 09:54:11,393 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:12,026 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:16,397 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:16,397 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:16,397 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:12'}]}
+2020-03-05 09:54:16,399 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:17,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:21,386 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:21,387 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:21,387 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:17'}]}
+2020-03-05 09:54:21,389 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:22,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:26,390 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:26,390 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:26,391 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:22'}]}
+2020-03-05 09:54:26,392 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:27,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:31,391 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:31,392 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:31,392 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:27'}]}
+2020-03-05 09:54:31,393 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:32,023 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:36,395 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:36,396 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:36,396 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:32'}]}
+2020-03-05 09:54:36,398 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:37,029 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:41,409 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:41,409 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:41,410 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:37'}]}
+2020-03-05 09:54:41,410 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:42,044 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:46,443 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:46,444 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:46,444 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:42'}]}
+2020-03-05 09:54:46,446 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:47,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:51,401 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:51,401 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:51,401 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:47'}]}
+2020-03-05 09:54:51,403 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:52,023 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:54:56,396 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:54:56,397 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:54:56,397 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:52'}]}
+2020-03-05 09:54:56,399 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:54:57,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:01,403 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:01,404 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:01,404 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:54:57'}]}
+2020-03-05 09:55:01,406 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:02,026 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:06,400 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:06,400 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:06,401 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:02'}]}
+2020-03-05 09:55:06,402 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:07,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:11,399 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:11,400 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:11,400 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:07'}]}
+2020-03-05 09:55:11,402 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:12,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:16,389 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:16,390 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:16,390 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:12'}]}
+2020-03-05 09:55:16,392 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:17,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:21,389 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:21,389 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:21,389 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:17'}]}
+2020-03-05 09:55:21,391 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:22,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:26,401 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:26,402 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:26,402 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:22'}]}
+2020-03-05 09:55:26,404 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:27,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:31,424 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:31,424 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:31,424 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:27'}]}
+2020-03-05 09:55:31,426 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:32,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:36,409 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:36,410 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:36,410 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:32'}]}
+2020-03-05 09:55:36,412 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:37,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:41,385 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 09:55:41,385 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 09:55:41,385 - basicLogger - DEBUG - {'stats': [{'numXrays': 1017, 'numSurgeries': 959, 'timestamp': '2020-03-05T09:55:37'}]}
+2020-03-05 09:55:41,387 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 09:55:42,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:46,346 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:55:47,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:51,722 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:55:52,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:55:56,573 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:55:57,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:01,668 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:02,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:06,572 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:07,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:11,598 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:12,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:16,639 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:17,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:21,605 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:22,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:26,620 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:27,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:31,611 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:32,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:36,608 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:37,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:41,750 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:42,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:46,404 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:47,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:51,567 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:52,025 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 09:56:56,570 - basicLogger - ERROR - 200 status code not recieved
+2020-03-05 09:56:57,024 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:14:32,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:14:38,720 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:14:38,721 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:14:38,721 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 0, 'timestamp': '2020-03-05T10:14:32'}]}
+2020-03-05 10:14:38,723 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:14:42,670 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:14:47,051 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:14:47,052 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:14:47,052 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 0, 'timestamp': '2020-03-05T10:14:42'}]}
+2020-03-05 10:14:47,054 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:14:47,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:14:52,059 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:14:52,059 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:14:52,060 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 0, 'timestamp': '2020-03-05T10:14:47'}]}
+2020-03-05 10:14:52,061 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:14:52,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:14:57,057 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:14:57,057 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:14:57,058 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 0, 'timestamp': '2020-03-05T10:14:52'}]}
+2020-03-05 10:14:57,060 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:14:57,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:02,068 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:02,068 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:02,068 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 0, 'timestamp': '2020-03-05T10:14:57'}]}
+2020-03-05 10:15:02,070 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:02,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:07,049 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:07,049 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:07,049 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 0, 'timestamp': '2020-03-05T10:15:02'}]}
+2020-03-05 10:15:07,051 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:07,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:12,058 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:12,058 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:12,058 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 0, 'timestamp': '2020-03-05T10:15:07'}]}
+2020-03-05 10:15:12,060 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:12,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:17,054 - basicLogger - INFO - Events recieved - surgeries: 1
+2020-03-05 10:15:17,054 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:17,055 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:12'}]}
+2020-03-05 10:15:17,060 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:17,673 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:22,061 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:22,061 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:22,062 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:17'}]}
+2020-03-05 10:15:22,063 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:22,673 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:27,059 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:27,059 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:27,060 - basicLogger - DEBUG - {'stats': [{'numXrays': 0, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:22'}]}
+2020-03-05 10:15:27,061 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:27,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:32,060 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:32,060 - basicLogger - INFO - Events recieved - xRays: 1
+2020-03-05 10:15:32,061 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:27'}]}
+2020-03-05 10:15:32,063 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:32,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:37,390 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:37,391 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:37,391 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:32'}]}
+2020-03-05 10:15:37,393 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:37,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:42,107 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:42,107 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:42,108 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:37'}]}
+2020-03-05 10:15:42,109 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:42,670 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:47,067 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:47,068 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:47,068 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:42'}]}
+2020-03-05 10:15:47,070 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:47,670 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:52,055 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:52,055 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:52,056 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:47'}]}
+2020-03-05 10:15:52,057 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:52,670 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:15:57,047 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:15:57,047 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:15:57,048 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:52'}]}
+2020-03-05 10:15:57,050 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:15:57,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:02,052 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:02,052 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:02,053 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:15:57'}]}
+2020-03-05 10:16:02,054 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:02,670 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:07,077 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:07,077 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:07,077 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:02'}]}
+2020-03-05 10:16:07,079 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:07,670 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:12,053 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:12,054 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:12,054 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:07'}]}
+2020-03-05 10:16:12,056 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:12,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:17,063 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:17,064 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:17,064 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:12'}]}
+2020-03-05 10:16:17,068 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:17,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:22,055 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:22,056 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:22,056 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:17'}]}
+2020-03-05 10:16:22,058 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:22,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:27,051 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:27,051 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:27,051 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:22'}]}
+2020-03-05 10:16:27,053 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:27,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:32,080 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:32,080 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:32,081 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:27'}]}
+2020-03-05 10:16:32,082 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:32,672 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:37,062 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:37,063 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:37,063 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:32'}]}
+2020-03-05 10:16:37,065 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:37,671 - basicLogger - INFO - Start Periodic Processing
+2020-03-05 10:16:42,073 - basicLogger - INFO - Events recieved - surgeries: 0
+2020-03-05 10:16:42,073 - basicLogger - INFO - Events recieved - xRays: 0
+2020-03-05 10:16:42,073 - basicLogger - DEBUG - {'stats': [{'numXrays': 1, 'numSurgeries': 1, 'timestamp': '2020-03-05T10:16:37'}]}
+2020-03-05 10:16:42,075 - basicLogger - DEBUG - Period processing has ended
+2020-03-05 10:16:42,671 - basicLogger - INFO - Start Periodic Processing
