@@ -17,8 +17,8 @@ from flask_cors import CORS, cross_origin
 with open('app_conf.yaml', 'r') as f:
     app_config = yaml.safe_load(f.read())
 
-#STORE_SURGERY_INFO_REQUEST_URL = "http://localhost:8090/report/book_surgery"
-#STORE_XRAY_REPORT_REQUEST_URL = "http://localhost:8090/report/xRay"
+STORE_SURGERY_INFO_REQUEST_URL = app_config['datastore']['hostname'] + "/book_surgery"
+STORE_XRAY_REPORT_REQUEST_URL = app_config['datastore']['hostname'] + "/report/xRay"
 HEADERS = {"content-type":"application/json"}
 
 DB_ENGINE = 'mysql+pymysql://' + app_config['datastore']['user'] + ':' + app_config['datastore']['password'] + '@' + \
