@@ -14,8 +14,12 @@ import datetime
 import requests
 from flask_cors import CORS, cross_origin
 
-with open('app_conf.yaml', 'r') as f:
-    app_config = yaml.safe_load(f.read())
+try:
+    with open('/config/app_conf.yaml', 'r') as f:
+        app_config = yaml.safe_load(f.read())
+except:
+    with open('app_conf.yaml', 'r') as f:
+        app_config = yaml.safe_load(f.read())
 
 STORE_SURGERY_INFO_REQUEST_URL = app_config['datastore']['hostname'] + ":8090/report/book_surgery"
 STORE_XRAY_REPORT_REQUEST_URL = app_config['datastore']['hostname'] + ":8090/report/xRay"
